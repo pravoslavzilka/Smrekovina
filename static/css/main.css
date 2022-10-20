@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+
+	padding: 0;
+}
+
+.nav-item-header {
+    color:black;
+}
+
+#blok1{
+
+
+ background-size: cover;
+ background-position: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: left;
+ align-items: left;
+ padding: 0 20px;
+
+}
+
+#blok1 h1{
+
+	font-size: 50px;
+	line-height: 1.2;
+	align-items: left;
+	padding-top: 130px;
+
+}
+
+#blok1 button{
+
+  align-items: left;
+}
+
+#section-a img{
+
+padding-top: 80px;
+}
+
+#section-b h6{
+
+padding-top: 80px;
+
+}
+#section-b button{
+
+background-color: white;
+border: none;
+margin-bottom: 80px;
+
+}
+
+#section-b pre{
+
+color: #6EA4CF;
+border-radius: 5px;
+border: 1px solid;
+
+
+}
+
+#section-c {
+   
+ background-image: url('http://local.targetpcinc.com/wp-content/uploads/2015/07/The-5-Best-Laptop-Brands-for-2015.jpg');
+ background-size: cover;
+ background-position: center;
+ height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: left;
+ align-items: left;
+ padding: 0 20px;
+
+}
+
+
+
+#section-d .block{
+  background-color: #2595FF;
+  padding: 30px;
+
+  }
+
+
+
+
+#section-g {
+    
+
+	color: white;
+}
